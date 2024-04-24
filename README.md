@@ -1,7 +1,5 @@
-
-Certainly! Below is a suggested content for your README.txt file for the provided Python script for encrypting and decrypting images using Triple DES:
-
 Image Encryption and Decryption Using Triple DES
+
 This Python script allows you to encrypt and decrypt images using Triple DES (Data Encryption Standard). Triple DES is a symmetric encryption algorithm that applies the DES algorithm three times to each data block, increasing the key length and enhancing security.
 
 Requirements
